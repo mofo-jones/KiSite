@@ -46,3 +46,4 @@ export class ApplicationModule {
         delete store.disposeOldHosts;
     }
 }
+
